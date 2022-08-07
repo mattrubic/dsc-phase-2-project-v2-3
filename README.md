@@ -27,16 +27,16 @@ Our model was able to explain 54% (r-squared of .540) of the variation in sale p
 
 The model that we used to explain the variance in sale price of high-value houses performed better with the data of all houses sold in King County for 2014-2015, where it was able to explain 69.2% (r-squared of .692) of the variance in sale price of a house. We found that much of the variation in sale price that our model did not account for could be explained by the location of a house. Though latitude and longitude are continuous values and were included in our model, their relationships with price are non-linear. We found through graphical and statistical analysis that specifc locations yielded generally higher sale prices, and transcended what was otherwise a strong relationship between sqft_living and price of a house.
 
-![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_1?raw=true)
-![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_2?raw=true)
-![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_3?raw=true)
-![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_4?raw=true)
-![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_5?raw=true)
-![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_6?raw=true)
-![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_7?raw=true)
-![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_8?raw=true)
-![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_9?raw=true)
-![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_10?raw=true)
+![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_1.png?raw=true)
+![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_2.png?raw=true)
+![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_3.png?raw=true)
+![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_4.png?raw=true)
+![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_5.png?raw=true)
+![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_6.png?raw=true)
+![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_7.png?raw=true)
+![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_8.png?raw=true)
+![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_9.png?raw=true)
+![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_10.png?raw=true)
 
 
 ### Conclusions
