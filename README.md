@@ -34,9 +34,8 @@ The model that we used to explain the variance in sale price of high-value house
 ![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_5.png?raw=true)
 ![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_6.png?raw=true)
 ![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_7.png?raw=true)
-![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_8.png?raw=true)
-![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_9.png?raw=true)
-![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_10.png?raw=true)
+![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/year built by condition.png?raw=true)
+
 
 
 ### Conclusions
