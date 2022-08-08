@@ -21,11 +21,19 @@ This project uses the King County House Sales dataset, which can be found in  `k
 
 We cleaned data to remove all null values and convert categorical data into numeric data that could be interpretted by a linear regression model. We used correlation between our target variable (price), and all other variables to identify the most highly correlated variable (sqft_living), and made a baseline linear regression model of our target variable from that variable. We iterated upon that model, to include as much information as we could to explain price, while also trying to reduce the effect of collinearity.
 
+To follow our process in chronological order, read through notebooks in the following order:
+-Data Cleaning
+-EDAs
+-Train_test model
+-High Value Variables
+
 ### Results
 
 Our model was able to explain 54% (r-squared of .540) of the variation in sale price of houses that sold for over \\ $800,000. The two variables that explained the greatest amount of variation in sale price were sqft_living and grade of a house. Based on the coefficents produced by our model, each square foot of a house increased the sale price by \\ $275.98, and each increase in building grade above the minimum obtainable grade for a house increased the sale price by about \\ $4454. 
 
 The model that we used to explain the variance in sale price of high-value houses performed better with the data of all houses sold in King County for 2014-2015, where it was able to explain 69.2% (r-squared of .692) of the variance in sale price of a house. We found that much of the variation in sale price that our model did not account for could be explained by the location of a house. Though latitude and longitude are continuous values and were included in our model, their relationships with price are non-linear. We found through graphical and statistical analysis that specifc locations yielded generally higher sale prices, and transcended what was otherwise a strong relationship between sqft_living and price of a house.
+
+<https://docs.google.com/presentation/d/1_s7tqmaxKG7qEw2rG70wyL2cvsd_6_NrE7Ayt_nRYUo/edit?usp=sharing>
 
 ![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_1.png?raw=true)
 ![alt text](https://github.com/mattrubic/dsc-phase-2-project-v2-3/blob/main/images/p2_2.png?raw=true)
